@@ -9,11 +9,11 @@ Create a Generative Adversarial Networks(GANs) to generate new images of faces.
 - Preprocess the data
   - values of dataset in the range of -0.5 to 0.5 of 28x28 dimensional images.
 - Build the GANs
- - model input
- - discriminator
- - generator
- - model_loss
- - midel_opt
+  - model input
+  - discriminator
+  - generator
+  - model_loss
+  - midel_opt
 - Train the GANs
 
 ### Project Results
