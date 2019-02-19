@@ -13,7 +13,7 @@ Create a Generative Adversarial Networks(GANs) to generate new images of faces.
   - discriminator
   - generator
   - model_loss
-  - midel_opt
+  - model_opt
 - Train the GANs
 
 ### Project Results
