@@ -17,7 +17,7 @@ Create a Generative Adversarial Networks(GANs) to generate new images of faces.
 - Train the GANs
 
 ### Project Results
-- Stoped to generate images which look like realistic faces after running two epoches.
+- Generated images which look like realistic faces after running two epoches.
 
 ## Getting Started
 ### Prerequisites
