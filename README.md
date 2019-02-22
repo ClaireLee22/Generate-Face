@@ -23,7 +23,6 @@ Create a Generative Adversarial Networks(GANs) to generate new images of faces.
 ### Prerequisites
 This project requires **Python 3.6** and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [Tensorflow](https://www.tensorflow.org/install/pip)
 
