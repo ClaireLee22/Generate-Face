@@ -2,7 +2,48 @@
 GANs Project [Udacity Deep Learning Nanodegree]
 
 ## Project Overview
+### Project Description
 Create a Generative Adversarial Networks(GANs) to generate new images of faces.
 
-First, using the MNIST dataset to test the GANs in order to see how well the model trains. Then running the GANs on the celebA dataset which is more complex than MNIST.
+### Project Procedure
+- Preprocess the data
+  - values of dataset in the range of -0.5 to 0.5 of 28x28 dimensional images.
+- Build the GANs
+  - model input
+  - discriminator
+  - generator
+  - model_loss
+  - model_opt
+- Train the GANs
 
+### Project Results
+- Generated images which look like realistic faces after running two epoches.
+
+## Getting Started
+### Prerequisites
+This project requires **Python 3.6** and the following Python libraries installed:
+- [NumPy](http://www.numpy.org/)
+- [matplotlib](http://matplotlib.org/)
+- [Tensorflow](https://www.tensorflow.org/install/pip)
+- tqdm
+
+  ```bash
+  pip install tqdm
+  ```
+
+### Run
+In a terminal or command window, run one of the following commands:
+
+```bash
+ipython notebook dlnd_face_generation.ipynb
+```  
+or
+```bash
+jupyter notebook dlnd_face_generation.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
+
+### Data
+- MNIST: contain images of handwritten digits
+- CelebA: contain over 200,000 celebrity images with annotations
