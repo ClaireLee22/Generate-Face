@@ -25,10 +25,11 @@ This project requires **Python 3.6** and the following Python libraries installe
 - [NumPy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
 - [Tensorflow](https://www.tensorflow.org/install/pip)
-- [tqdm](https://anaconda.org/conda-forge/tqdm)
+- tqdm
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
+  ```bash
+  pip install tqdm
+  ```
 
 ### Run
 In a terminal or command window, run one of the following commands:
